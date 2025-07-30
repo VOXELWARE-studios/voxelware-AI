@@ -1,4 +1,4 @@
-# darkmoonAI
+# voxelware AI
 
 VOXELWARE AI is a fork of darkmoonAI aiming to fix the word registration problems.
 
