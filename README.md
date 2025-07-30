@@ -1,6 +1,6 @@
 # darkmoonAI
 
-DarkMoon AI is an Artificial Intelegence made by DarkMoon Studios and Win11 friends code team
+VOXELWARE AI is a fork of darkmoonAI aiming to fix the word registration problems.
 
 <sup><sub>powered by deepseek-v3 !</sub></sup>
 
